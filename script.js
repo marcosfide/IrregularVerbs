@@ -3,7 +3,7 @@ const words = [
         word: "was/were",
         sentence: "I was at home yesterday. / We were in the shopping last night.",
         translation: "Past of Be. -> Ser/Estar",
-        audio: "audio/waswere.ogg"
+        audio: "audio/waswere.mp3"
       },
       {
         word: "became",
@@ -15,37 +15,37 @@ const words = [
         word: "had",
         sentence: "I had a great time at the party. / She had a new car.",
         translation: "Past of Have -> Tener",
-        audio: "audio/had.ogg"
+        audio: "audio/had.mp3"
       },
       {
         word: "did",
         sentence: "I did my homework yesterday. / He did a good job.",
         translation: "Past of Do -> Hacer",
-        audio: "audio/did.ogg"
+        audio: "audio/did.mp3"
       },
       {
         word: "said",
         sentence: "She said goodbye to her friends. / They said it was a beautiful place.",
         translation: "Past of Say -> Decir",
-        audio: "audio/said.ogg"
+        audio: "audio/said.mp3"
       },
       {
         word: "went",
         sentence: "He went to the beach last weekend. / They went to the movies.",
         translation: "Past of Go -> Ir",
-        audio: "audio/went.ogg"
+        audio: "audio/went.mp3"
       },
       {
         word: "saw",
         sentence: "I saw a shooting star. / She saw a funny video.",
         translation: "Past of See -> Ver",
-        audio: "audio/saw.ogg"
+        audio: "audio/saw.mp3"
       },
       {
         word: "took",
         sentence: "He took a picture of the sunset. / We took the bus to school.",
         translation: "Past of Take -> Tomar",
-        audio: "audio/took.ogg"
+        audio: "audio/took.mp3"
       },
       {
         word: "made",
