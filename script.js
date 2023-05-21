@@ -15,37 +15,37 @@ const words = [
         word: "had",
         sentence: "I had a great time at the party. / She had a new car.",
         translation: "Past of Have -> Tener",
-        audio: "audio/have.mp3"
+        audio: "audio/had.ogg"
       },
       {
         word: "did",
         sentence: "I did my homework yesterday. / He did a good job.",
         translation: "Past of Do -> Hacer",
-        audio: "audio/do.mp3"
+        audio: "audio/did.ogg"
       },
       {
         word: "said",
         sentence: "She said goodbye to her friends. / They said it was a beautiful place.",
         translation: "Past of Say -> Decir",
-        audio: "audio/say.mp3"
+        audio: "audio/said.ogg"
       },
       {
         word: "went",
         sentence: "He went to the beach last weekend. / They went to the movies.",
         translation: "Past of Go -> Ir",
-        audio: "audio/go.mp3"
+        audio: "audio/went.ogg"
       },
       {
         word: "saw",
         sentence: "I saw a shooting star. / She saw a funny video.",
         translation: "Past of See -> Ver",
-        audio: "audio/see.mp3"
+        audio: "audio/saw.ogg"
       },
       {
         word: "took",
         sentence: "He took a picture of the sunset. / We took the bus to school.",
         translation: "Past of Take -> Tomar",
-        audio: "audio/take.mp3"
+        audio: "audio/took.ogg"
       },
       {
         word: "made",
