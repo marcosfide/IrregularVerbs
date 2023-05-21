@@ -6,6 +6,12 @@ const words = [
         audio: "audio/waswere.mp3"
       },
       {
+        word: "became",
+        sentence: "After years of hard work and dedication, she finally became a successful entrepreneur.",
+        translation: "Past of Become -> Convertirse",
+        audio: "audio/have.mp3"
+      },
+      {
         word: "had",
         sentence: "I had a great time at the party. / She had a new car.",
         translation: "Past of Have -> Tener",
@@ -101,6 +107,228 @@ const words = [
         translation: "Past of Read -> Leer",
         audio: "audio/read.mp3"
       },
+      {
+        word: "began",
+        sentence: "She began her new job today. / They began their journey early in the morning.",
+        translation: "Past of Begin -> Empezar",
+        audio: "audio/began.mp3"
+        },
+        {
+        word: "broke",
+        sentence: "He broke his phone. / The vase broke when it fell.",
+        translation: "Past of Break -> Romper",
+        audio: "audio/broke.mp3"
+        },
+        {
+        word: "brought",
+        sentence: "She brought flowers for her mother. / They brought snacks to the party.",
+        translation: "Past of Bring -> Traer",
+        audio: "audio/brought.mp3"
+        },
+        {
+        word: "built",
+        sentence: "He built a new house. / They built a bridge.",
+        translation: "Past of Build -> Construir",
+        audio: "audio/built.mp3"
+        },
+        {
+        word: "bought",
+        sentence: "I bought a new dress. / She bought a gift for her friend.",
+        translation: "Past of Buy -> Comprar",
+        audio: "audio/bought.mp3"
+        },
+        {
+        word: "could",
+        sentence: "I could swim when I was young. / They could speak multiple languages.",
+        translation: "Past of Can -> Poder",
+        audio: "audio/could.mp3"
+        },
+        {
+        word: "caught",
+        sentence: "He caught the ball. / She caught a cold.",
+        translation: "Past of Catch -> Atrapar",
+        audio: "audio/caught.mp3"
+        },
+        {
+        word: "cost",
+        sentence: "It cost a lot of money. / The tickets cost $20 each.",
+        translation: "Past of Cost -> Costar",
+        audio: "audio/cost.mp3"
+        },
+        {
+        word: "drank",
+        sentence: "I drank a glass of water. / He drank a cup of coffee.",
+        translation: "Past of Drink -> Beber",
+        audio: "audio/drank.mp3"
+        },
+        {
+        word: "drove",
+        sentence: "She drove to work. / They drove through the countryside.",
+        translation: "Past of Drive -> Conducir",
+        audio: "audio/drove.mp3"
+        },
+        {
+        word: "ate",
+        sentence: "I ate a delicious meal. / They ate dinner at a restaurant.",
+        translation: "Past of Eat -> Comer",
+        audio: "audio/ate.mp3"
+        },
+        {
+        word: "fell",
+        sentence: "He fell off his bike. / The leaves fell from the trees.",
+        translation: "Past of Fall -> Caer",
+        audio: "audio/fell.mp3"
+        },
+        {
+        word: "felt",
+        sentence: "I felt happy after the good news. / He felt cold in the winter.",
+        translation: "Past of Feel -> Sentir",
+        audio: "audio/felt.mp3"
+        },
+        {
+        word: "flew",
+        sentence: "They flew to Paris for their honeymoon. / The birds flew south for the winter.",
+        translation: "Past of Fly -> Volar",
+        audio: "audio/flew.mp3"
+        },
+        {
+        word: "forgot",
+        sentence: "I forgot my keys at home. / She forgot to turn off the lights.",
+        translation: "Past of Forget -> Olvidar",
+        audio: "audio/forgot.mp3"
+        },
+        {
+        word: "gave",
+        sentence: "He gave me a present. / She gave him a book.",
+        translation: "Past of Give -> Dar",
+        audio: "audio/gave.mp3"
+        },
+        {
+        word: "heard",
+        sentence: "I heard a strange noise. / They heard the news on the radio.",
+        translation: "Past of Hear -> Oír",
+        audio: "audio/heard.mp3"
+        },
+        {
+        word: "left",
+        sentence: "She left the party early. / They left their bags at the hotel.",
+        translation: "Past of Leave -> Dejar/Irse",
+        audio: "audio/left.mp3"
+        },
+        {
+        word: "lost",
+        sentence: "I lost my phone. / He lost the game.",
+        translation: "Past of Lose -> Perder",
+        audio: "audio/lost.mp3"
+        },
+        {
+        word: "met",
+        sentence: "We met in college. / They met for coffee.",
+        translation: "Past of Meet -> Conocer/Encontrarse",
+        audio: "audio/met.mp3"
+        },
+        {
+        word: "paid",
+        sentence: "I paid the bill. / She paid for the groceries.",
+        translation: "Past of Pay -> Pagar",
+        audio: "audio/paid.mp3"
+        },
+        {
+        word: "put",
+        sentence: "He put the books on the shelf. / She put on her coat.",
+        translation: "Past of Put -> Poner",
+        audio: "audio/put.mp3"
+        },
+        {
+        word: "sent",
+        sentence: "I sent an email. / They sent a postcard.",
+        translation: "Past of Send -> Enviar",
+        audio: "audio/sent.mp3"
+        },
+        {
+        word: "sang",
+        sentence: "She sang a beautiful song. / They sang together at the concert.",
+        translation: "Past of Sing -> Cantar",
+        audio: "audio/sang.mp3"
+        },
+        {
+        word: "sat",
+        sentence: "I sat on the park bench. / He sat at the front of the classroom.",
+        translation: "Past of Sit -> Sentarse",
+        audio: "audio/sat.mp3"
+        },
+        {
+        word: "slept",
+        sentence: "She slept for ten hours. / They slept in a tent.",
+        translation: "Past of Sleep -> Dormir",
+        audio: "audio/slept.mp3"
+        },
+        {
+        word: "spoke",
+        sentence: "He spoke to the audience. / She spoke three languages fluently.",
+        translation: "Past of Speak -> Hablar",
+        audio: "audio/spoke.mp3"
+        },
+        {
+        word: "spent",
+        sentence: "I spent the weekend with my family. / They spent a lot of money on clothes.",
+        translation: "Past of Spend -> Gastar/Pasar",
+        audio: "audio/spent.mp3"
+        },
+        {
+        word: "stood",
+        sentence: "He stood in line for tickets. / She stood at the front of the room.",
+        translation: "Past of Stand -> Pararse",
+        audio: "audio/stood.mp3"
+        },
+        {
+        word: "swam",
+        sentence: "I swam in the pool. / They swam across the lake.",
+        translation: "Past of Swim -> Nadar",
+        audio: "audio/swam.mp3"
+        },
+        {
+        word: "taught",
+        sentence: "She taught English. / He taught me how to cook.",
+        translation: "Past of Teach -> Enseñar",
+        audio: "audio/taught.mp3"
+        },
+        {
+        word: "told",
+        sentence: "I told him the truth. / She told a funny story.",
+        translation: "Past of Tell -> Decir",
+        audio: "audio/told.mp3"
+        },
+        {
+        word: "thought",
+        sentence: "He thought about the problem. / She thought it was a good idea.",
+        translation: "Past of Think -> Pensar",
+        audio: "audio/thought.mp3"
+        },
+        {
+        word: "understood",
+        sentence: "I understood the instructions. / They understood the concept.",
+        translation: "Past of Understand -> Entender",
+        audio: "audio/understood.mp3"
+        },
+        {
+        word: "woke",
+        sentence: "She woke up early. / He woke me up with a phone call.",
+        translation: "Past of Wake -> Despertar",
+        audio: "audio/woke.mp3"
+        },
+        {
+        word: "wore",
+        sentence: "I wore a blue dress. / They wore costumes to the party.",
+        translation: "Past of Wear -> Usar/Llevar",
+        audio: "audio/wore.mp3"
+        },
+        {
+        word: "won",
+        sentence: "He won the game. / She won the competition.",
+        translation: "Past of Win -> Ganar",
+        audio: "audio/won.mp3"
+        }
 
   ];
 
