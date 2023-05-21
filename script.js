@@ -3,13 +3,13 @@ const words = [
         word: "was/were",
         sentence: "I was at home yesterday. / We were in the shopping last night.",
         translation: "Past of Be. -> Ser/Estar",
-        audio: "audio/waswere.mp3"
+        audio: "audio/waswere.ogg"
       },
       {
         word: "became",
         sentence: "After years of hard work and dedication, she finally became a successful entrepreneur.",
         translation: "Past of Become -> Convertirse",
-        audio: "audio/have.mp3"
+        audio: "audio/became.ogg"
       },
       {
         word: "had",
@@ -334,6 +334,16 @@ const words = [
 
   
   let currentIndex = 0;
+
+    // Agregar un evento al botón de alternar modo
+  document.getElementById("toggle-mode-btn").addEventListener("click", toggleMode);
+
+  function toggleMode() {
+    document.body.classList.toggle("dark-mode");
+    document.querySelector(".container").classList.toggle("dark-mode");
+    document.querySelector(".word-container").classList.toggle("dark-mode");
+    document.querySelector(".buttons").classList.toggle("dark-mode");
+  }
 
   function displayWord() {
     const wordElement = document.getElementById("word");
