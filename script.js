@@ -9,7 +9,7 @@ const words = [
         word: "became",
         sentence: "After years of hard work and dedication, she finally became a successful entrepreneur.",
         translation: "Past of Become -> Convertirse",
-        audio: "audio/became.ogg"
+        audio: "audio/became.mp3"
       },
       {
         word: "had",
