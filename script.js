@@ -3,7 +3,7 @@ const words = [
         word: "was/were",
         sentence: "I was at home yesterday. / We were in the shopping last night.",
         translation: "Past of Be. -> Ser/Estar",
-        audio: "audio/waswere.mp3"
+        audio: "audio/waswere.m4a"
       },
       {
         word: "became",
